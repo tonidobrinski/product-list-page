@@ -1,0 +1,14 @@
+.color-title {
+  margin-top: 1rem;
+}
+
+.all {
+  background: linear-gradient(blue, crimson);
+}
+
+@media screen and (max-width: 768px) {
+  .color-title {
+    margin: 10px 0;
+    text-align: center;
+  }
+}

@@ -1,0 +1,42 @@
+.footer {
+  color: #888;
+  padding: 40px 0;
+  text-align: center;
+}
+
+.footer h3 {
+  font-size: 22px;
+  font-weight: normal;
+  margin-bottom: 20px;
+  color: #888;
+}
+
+.footer ul {
+  padding: 0;
+  list-style: none;
+}
+
+.footer li {
+  margin-bottom: 10px;
+}
+
+.footer a {
+  color: #888;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer a:hover {
+  color: #f0ad4e;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .footer {
+    padding: 20px 0;
+  }
+
+  .footer .col-md-4 {
+    margin-bottom: 20px;
+  }
+}
