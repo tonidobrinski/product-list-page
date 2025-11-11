@@ -20,7 +20,7 @@ function Card({ img, title, star, reviews, newPrice, prevPrice }) {
           </section>
           <section className="card-price">
             <div className="price">
-              <del>{prevPrice}</del> ${newPrice}
+              <del>${prevPrice}</del> ${newPrice}
             </div>
             <div className="bag">
               <button
