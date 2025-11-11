@@ -10,13 +10,13 @@ function Footer() {
             <h3>Links</h3>
             <ul className="list-unstyled">
               <li>
-                <a href="#">Terms &amp; Conditions</a>
+                <a href="/">Terms &amp; Conditions</a>
               </li>
               <li>
-                <a href="#">Privacy Policy</a>
+                <a href="/">Privacy Policy</a>
               </li>
               <li>
-                <a href="#">Contact Us</a>
+                <a href="/">Contact Us</a>
               </li>
             </ul>
           </div>
